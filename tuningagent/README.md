@@ -1,13 +1,4 @@
-# Agent Store
-
-A modern React application showcasing an agent marketplace interface with tunable AI agents.
-
-## Features
-
-- **Agent Cards**: Display various AI agents with descriptions and capabilities
-- **Tunable Agents**: Special category of customizable agents
-- **Responsive Design**: Mobile-friendly interface built with Tailwind CSS
-- **Modern UI**: Clean, professional design using shadcn/ui components
+Vibecoding the Copilot ++ (Tuning) Agent Prototype
 
 ## Quick Start
 
